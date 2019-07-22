@@ -1,7 +1,0 @@
-# Lines that start with '#' are comments.
-# IntelliJ IDEA Project files
-.idea
-*.iml
-*.ipr
-*.iws
-out
